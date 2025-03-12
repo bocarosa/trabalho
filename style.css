@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+* {
+    margin: 0%;
+}
+
+
+:root {
+    --branco: #fffffff1;
+}
+
+body {
+    background-color: var(--roxo-claro);
+
+}
+
+img {
+    width: 40%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #e771f1;
+    
