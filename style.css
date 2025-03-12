@@ -25,3 +25,57 @@ header {
     background-color: #e771f1;
 
 }
+
+.intro {
+
+    display: grid;
+    background-color: var(--branco);
+    margin: 10px;
+    padding: 32px;
+    grid-template-columns: 30% 70%;
+    align-items: center;
+
+}
+
+#equipe {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    background-color: var(--branco);
+    text-align: center;
+}
+
+.img-equipe {
+    width: 40%;
+}
+
+footer {
+    background-color: #e771f1;
+}
+
+
+
+
+header a {
+    color: black;
+    text-decoration: none;
+}
+
+.tam {
+    width: 86%;
+    margin-top: 11px;
+}
+
+.dd {
+    text-align: center;
+}
+
+.ddd {
+    width: 852px;
+    height: 300px;
+}
+
+.tit {
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
